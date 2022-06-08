@@ -1,0 +1,90 @@
+
+.h3 {
+    background-color: rgb(218, 221, 18, 0.938);
+    color: rgb(0, 0, 0);
+    
+}
+
+.insta {
+    color: brown;
+}
+.twitter {
+    color: brown;
+}
+
+.lugares {
+    color: rgb(0, 0, 0);
+    background-color: rgb(218, 221, 18, 0.938);
+}
+
+.logo {
+    
+    height: 450px;
+    display: flex;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    justify-content: center;
+}
+
+.carta {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-image: url("imagen/fondonegro.jpg");
+}
+
+.texto {
+    color: rgb(255, 255, 255);
+}
+
+.carta {
+    color: rgb(0, 67, 250);
+}
+
+.t1 {
+    color: rgb(255, 208, 0);
+}
+
+.cont-list {
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.t2 {
+    color: rgb(255, 208, 0);
+}
+
+.t3 {
+    color: rgb(0, 255, 34);
+}
+
+.container-carta {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.item-1:hover{
+    background-color: rgb(28, 255, 7);
+    width: 900px;
+    transition: 2s;
+   color: aqua;
+}
+
+.item-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ 
+
+
+
+    
+
